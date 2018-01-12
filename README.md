@@ -1,3 +1,7 @@
+# Notes
+
+This is the third project in term 2 of the Udacity Self-Driving Car Engineer program. The car should be localized correctly, although the position estimates are a little jittery at times.
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
